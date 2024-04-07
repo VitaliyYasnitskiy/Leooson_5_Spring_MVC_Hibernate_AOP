@@ -1,2 +1,2 @@
-# Leooson_5_Spring_MVC_Hibernate_AOP
-Leooson_5_Spring_MVC_Hibernate_AOP
+# Lesson_5_Spring_MVC_Hibernate_AOP
+Leosson_5_Spring_MVC_Hibernate_AOP
